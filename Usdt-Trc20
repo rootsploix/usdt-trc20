@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tether USD (FakeUSDT) - Official Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 { color: #2c3e50; }
+        p { color: #555; }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px;
+            color: white;
+            background-color: #3498db;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Tether USD (FakeUSDT)</h1>
+        <p>Welcome to the official website of Tether USD (FakeUSDT), a TRC-20 token built on the TRON blockchain.</p>
+        
+        <h2>Project Overview</h2>
+        <p>FakeUSDT is designed for fast, low-cost transactions on the TRON network, providing a stable digital asset for various use cases.</p>
+        
+        <h2>Token Details</h2>
+        <p><strong>Token Name:</strong> Tether USD (FakeUSDT)</p>
+        <p><strong>Symbol:</strong> USDT</p>
+        <p><strong>Blockchain:</strong> TRON (TRC-20)</p>
+        <p><strong>Total Supply:</strong> 1,000,000 USDT</p>
+        <p><strong>Contract Address:</strong> TKrpV19EjNec8XyjcFKrZoSJfHtW8jmyh</p>
+        
+        <h2>Documents</h2>
+        <a href="whitepaper.pdf" class="btn">View Whitepaper</a>
+        <a href="audit-report.pdf" class="btn">View Audit Report</a>
+        
+        <h2>Social Media</h2>
+        <p>Follow us for the latest updates:</p>
+        <a href="#" class="btn">Twitter</a>
+        <a href="#" class="btn">Telegram</a>
+        <a href="#" class="btn">Discord</a>
+    </div>
+</body>
+</html>
+
